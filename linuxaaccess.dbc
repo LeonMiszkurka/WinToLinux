@@ -1,0 +1,10 @@
+SUDO = SHELL.APP
+
+FILEPER = ADMIN
+
+if error {
+    adminpass = getenterbox = type.adminpass = TRUE
+    providetolist {
+        filetype = dbf.list
+    }
+}

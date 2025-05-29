@@ -1,0 +1,6 @@
+import adminfiles.db.net
+import getthatfile.el.db.net
+
+read.getonsystem if = (word) then print word
+read.getonsystem if = (powerpoint) then print powerpoint
+read.getonsystem if = (excel) then print excel

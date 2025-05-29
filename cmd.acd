@@ -1,0 +1,7 @@
+registry = ver.c (api --install script)
+
+if registry = win.ver = less (latest (windows@1011)) {
+    get folder --server {
+        prompt error = javafile (window)
+    }
+}

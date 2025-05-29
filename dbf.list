@@ -1,0 +1,7 @@
+import (filelist)
+
+var = filelist {
+    dbc
+    cdf
+    dbl
+}
